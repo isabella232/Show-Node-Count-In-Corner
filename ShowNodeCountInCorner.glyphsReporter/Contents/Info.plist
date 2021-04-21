@@ -7,25 +7,25 @@
 	<key>CFBundleExecutable</key>
 	<string>plugin</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.markfromberg.ShowNodeCount</string>
+	<string>com.wwwhhhhh.ShowNodeCountInCorner</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>ShowNodeCount</string>
+	<string>ShowNodeCountInCorner</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.2</string> <!-- 1.0 -->
+	<string>1.0</string> <!-- 1.0 -->
 	<key>CFBundleVersion</key>
 	<string>120</string> <!-- 123 -->
 	<key>UpdateFeedURL</key>
 	<string>____OnlineUrlToThisPlist____</string>
 	<key>productPageURL</key>
-	<string>https://github.com/Mark2Mark/Show-Node-Count</string>
+	<string>https://github.com/weiweihuanghuang/Show-Node-Count-In-Corner</string>
 	<key>productReleaseNotes</key>
 	<string>Revival</string>
 	<key>NSHumanReadableCopyright</key>
 	<string>Copyright, Mark Frömberg, 2015-now</string>
 	<key>NSPrincipalClass</key>
-	<string>ShowNodeCount</string>
+	<string>ShowNodeCountInCorner</string>
 	<key>PyMainFileNames</key>
 	<array>
 		<string>plugin.py</string>

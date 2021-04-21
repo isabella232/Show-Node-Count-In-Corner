@@ -1,10 +1,8 @@
-<p align="center"> 
-<a href='https://ko-fi.com/M4M580HG' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</p>
-
-# Show Node Count
+# Show Node Count In Corner
 
 *This is a plugin for the [Glyphs font editor](http://glyphsapp.com/).*  
+
+This is based on [Mark2Mark](https://github.com/Mark2Mark)'s [Show Node Count](https://github.com/Mark2Mark/Show-Node-Count) with the difference that the node count is displayed in the top right corner as opposed to next to the glyph.
 
 It simply displays the current count of nodes from the currently selected path/glyph/character. It ignores components by now, which is the preferred behaviour for it’s purpose: immedeately spot a potentially incompatible master. Of course the built-in master compatibility preview in Glyphsapp is more powerfull, but not as quick in terms of counting points.
 
@@ -15,14 +13,11 @@ It simply displays the current count of nodes from the currently selected path/g
 
 ### How to use
 
-When ever you need it, toggle `Show * Node Count` from the view menu.
+When ever you need it, toggle `Show * Node Count In Corner` from the view menu.
 
 ### Examples
 
-![Show Rotated Demo](https://github.com/Mark2Mark/Glyphsapp-Plugins/blob/Screenshots/ShowNodeCount/Screenshots/ShowNodeCount-Mark-Froemberg-1200.png?raw=true "Show Rotated Demo")
-
-![Show Rotated live Demo](https://github.com/Mark2Mark/Glyphsapp-Plugins/blob/Screenshots/ShowNodeCount/Screenshots/ShowNodeCount_Mark-Froemberg.gif?raw=true "Show Rotated live Demo")
-
+![Show Rotated Demo](NodeCountInCorner.png "Show Rotated Demo")
 
 
 ##### Known issues
